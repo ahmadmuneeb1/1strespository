@@ -1,4 +1,4 @@
-//My First non recusrsive GCD code
+//My First non recusrsive GCD Java Code
 public static int gcd2(int p, int q) {
 while (q!=0){
 int temp = q;
