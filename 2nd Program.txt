@@ -1,4 +1,4 @@
-// non-recursive Function code to GCD of two numbers
+// non-recursive Function to GCD of two numbers
 public static int gcd2(int p, int q) {
 while (q!=0){
 int temp = q;
